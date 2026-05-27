@@ -5,9 +5,9 @@ Passionate about building things people actually enjoy using.
 
 ## About Me
 
-- 🚀 Software Engineering @ University of Jeddah
+- 🚀 Software Engineering at University of Jeddah
 - 👩‍💻 Into clean design, web development, and bringing ideas to life
-- ♟️ Chess player, reader, and a curious learner
+- ♟️ Chess and BJJ player, reader, and a curious learner
 
 ## Languages & Tools
 
