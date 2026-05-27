@@ -1,6 +1,6 @@
 # Hi, I'm Jana 👋
 
-Senior Software Engineering student at the University of Jeddah.
+Software Engineering student at the University of Jeddah.
 Passionate about building things people actually enjoy using.
 
 ## About Me
